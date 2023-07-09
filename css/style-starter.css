@@ -15088,10 +15088,10 @@ span.image-block {
 }
 
 .portfolio-area li {
-  float: left;
+  float: right;
   list-style-type: none;
   overflow: hidden;
-  width: 356px;
+  width: 340px;
   margin: 1em;
   margin-left: 0;
   margin-right: 2em;
