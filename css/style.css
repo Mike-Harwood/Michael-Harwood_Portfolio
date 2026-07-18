@@ -23,10 +23,11 @@ ul{
 	padding:0;
 }
 /*--header--*/
+
 .banner{
-	background:url(../images/Banner01.jpg) no-repeat;
-	background-size:cover;
-	min-height: 800px;
+    background: #000; /* plain black */
+    background-size: cover;
+    min-height: 800px;
 }
 .banner-top {
   text-align: center;
